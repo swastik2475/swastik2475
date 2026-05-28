@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:7c3aed&height=120&section=header&text=Swastik%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+![banner](https://raw.githubusercontent.com/swastik2475/swastik2475/main/banner.svg)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&multiline=false&width=620&lines=AI+Engineer+%7C+BIT+Mesra+Jaipur+%E2%80%94+Class+of+2027;Computer+Vision+%C2%B7+RAG+Systems+%C2%B7+LLM+Engineering;Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production)](https://github.com/swastik2475)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%C2%B7+RAG+Systems+%C2%B7+LLM+Engineering;Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production)](https://github.com/swastik2475)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-83803928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/swastik2475)
@@ -71,16 +67,22 @@ class Swastik:
 
 ---
 
-### 🔧 Backend · APIs · Dev Tools
+### 🔧 Backend · APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🛠️ Dev Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -88,8 +90,8 @@ class Swastik:
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhooks-6B21A8?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6B21A8?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -110,7 +112,7 @@ Visualize transformer reasoning — **12 layers × 12 attention heads** in GPT-s
 <td width="50%" valign="top">
 
 ### 🐀 RodentAI — CV Detection System
-Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained on ~400 images. Works in low-light environments with optional ultrasonic deterrence.
+Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained on ~400 images. Works in low-light with optional ultrasonic deterrence.
 
 **Metrics:** `77.4% mAP@50` · `79% Precision` · `72% Recall`
 
@@ -124,7 +126,7 @@ Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained o
 <td width="50%" valign="top">
 
 ### ⚖️ Nyaya Sathi — Legal AI · RAG
-Local RAG system for Indian legal documents. PDF ingestion → chunking → **all-MiniLM-L6-v2** embeddings → **FAISS** retrieval → LLM response. Fully offline, privacy-safe. Voice I/O support.
+Local RAG system for Indian legal documents. PDF ingestion → chunking → **all-MiniLM-L6-v2** embeddings → FAISS retrieval → LLM response. Fully offline, privacy-safe. Voice I/O included.
 
 **Impact:** `~70% ↓ search time` · `~38% ↑ retrieval accuracy` · **🏆 Top 5 SIH 2024**
 
@@ -136,7 +138,7 @@ Local RAG system for Indian legal documents. PDF ingestion → chunking → **al
 <td width="50%" valign="top">
 
 ### 🏗️ Magra-RAG
-Production RAG pipeline for **construction project management Q&A**. Ingests PDFs, CSVs, and Excel files. Built for real client use at Magra.app.
+Production RAG pipeline for **construction project management Q&A**. Ingests PDFs, CSVs, Excel files. Built for real client use at Magra.app.
 
 **Stack:** `RAG` `LangChain` `FastAPI` `Vector DB`
 
@@ -148,7 +150,7 @@ Production RAG pipeline for **construction project management Q&A**. Ingests PDF
 <td width="50%" valign="top">
 
 ### 🤖 AI Payroll Automation Chatbot
-Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, attendance-driven calculation, PDF payslip generation. AI assistant for read-only payroll explanation.
+Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, attendance-driven calc, PDF payslip generation. AI assistant for read-only explanation.
 
 **Stack:** `FastAPI` `JWT` `Streamlit` `Python`
 
@@ -158,7 +160,7 @@ Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, at
 <td width="50%" valign="top">
 
 ### 🧳 Travel Mitra — AI Travel Assistant
-ANN regression model predicting travel time from distance, traffic, weather & time-of-day. NLP-based destination recommendations and itinerary generation.
+ANN regression for travel time prediction using distance, traffic, weather & time-of-day. NLP-based recommendations and itinerary generation.
 
 **Metrics:** `R² = 0.91` · `40% ↑ itinerary relevance`
 
@@ -172,7 +174,7 @@ ANN regression model predicting travel time from distance, traffic, weather & ti
 <td width="50%" valign="top">
 
 ### 🌿 Crop Disease Segmentation
-Pixel-level disease localization on crop leaf images using deep learning segmentation. Helps farmers identify infected regions for early intervention.
+Pixel-level disease localization on crop leaf images. Helps farmers detect infected regions for early intervention.
 
 **Stack:** `PyTorch` `CNN` `Image Segmentation`
 
@@ -181,7 +183,7 @@ Pixel-level disease localization on crop leaf images using deep learning segment
 </td>
 <td width="50%" valign="top">
 
-### 💡 What's Next
+### 💡 Currently Exploring
 ```
 ▸ Agentic AI with LangGraph
 ▸ Multi-agent systems (CrewAI, AutoGen)
@@ -198,25 +200,16 @@ Pixel-level disease localization on crop leaf images using deep learning segment
 
 ## GitHub Stats
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastik2475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/swastik2475)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6)](https://github.com/swastik2475)
 
-<img src="https://github-readme-stats.vercel.app/api?username=swastik2475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=swastik2475&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888888" width="60%"/>
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=swastik2475&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888888)](https://github.com/swastik2475)
 
 ---
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff)](https://github.com/swastik2475)
 
 ---
 
@@ -225,15 +218,11 @@ Pixel-level disease localization on crop leaf images using deep learning segment
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <div align="center">
-
-*"Build things that actually work, not things that just look good on slides."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d9ff&height=80&section=footer" width="100%"/>
-
+<sub><i>"Build things that actually work, not things that just look good on slides."</i></sub>
 </div>
