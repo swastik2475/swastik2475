@@ -1,8 +1,8 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/swastik2475/swastik2475/main/banner.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0c1f3a,70:0d1117,100:0d1117&height=110&text=Swastik%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%C2%B7+RAG+Systems+%C2%B7+LLM+Engineering;Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production)](https://github.com/swastik2475)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production;Computer+Vision+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering)](https://github.com/swastik2475)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-83803928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/swastik2475)
@@ -19,10 +19,10 @@
 class Swastik:
     name        = "Swastik Sharma"
     role        = "AI Engineer | B.Tech Artificial Intelligence"
-    college     = "BIT Mesra, Jaipur  —  Graduating 2027  |  CGPA: 7.5"
+    college     = "BIT Mesra, Ranchi  —  Graduating 2027  |  CGPA: 7.5"
     domains     = ["Computer Vision", "RAG Pipelines", "LLM Systems", "Agentic AI"]
-    achievement = "🏆 Top 5 — Smart India Hackathon 2024 (Legal AI)"
-    building    = ["magra-rag (construction domain Q&A)", "LLM Interpretability Toolkit"]
+    achievement = "🏆 Top 5 — Smart India Hackathon Inter Clg 2024 (Legal AI)"
+    building    = ["magra-rag (construction Q&A)", "Nayaya Sathi"]
     reach_me    = "swastiksharma24705@gmail.com"
 ```
 
@@ -90,7 +90,7 @@ class Swastik:
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-6B21A8?style=for-the-badge&logoColor=white)
 
 ---
@@ -126,7 +126,7 @@ Real-time rodent detection around parked vehicles. Custom **YOLOv11n** trained o
 <td width="50%" valign="top">
 
 ### ⚖️ Nyaya Sathi — Legal AI · RAG
-Local RAG system for Indian legal documents. PDF ingestion → chunking → **all-MiniLM-L6-v2** embeddings → FAISS retrieval → LLM response. Fully offline, privacy-safe. Voice I/O included.
+Local RAG for Indian legal documents. PDF ingestion → chunking → **all-MiniLM-L6-v2** embeddings → FAISS retrieval → LLM response. Fully offline, privacy-safe. Voice I/O included.
 
 **Impact:** `~70% ↓ search time` · `~38% ↑ retrieval accuracy` · **🏆 Top 5 SIH 2024**
 
@@ -150,7 +150,7 @@ Production RAG pipeline for **construction project management Q&A**. Ingests PDF
 <td width="50%" valign="top">
 
 ### 🤖 AI Payroll Automation Chatbot
-Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, attendance-driven calc, PDF payslip generation. AI assistant for read-only explanation.
+Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, attendance-driven calc, PDF payslip generation. AI for read-only explanation only.
 
 **Stack:** `FastAPI` `JWT` `Streamlit` `Python`
 
@@ -160,7 +160,7 @@ Secure payroll system for Enlaz platform. JWT auth, rule-based salary engine, at
 <td width="50%" valign="top">
 
 ### 🧳 Travel Mitra — AI Travel Assistant
-ANN regression for travel time prediction using distance, traffic, weather & time-of-day. NLP-based recommendations and itinerary generation.
+ANN regression for travel time prediction. NLP-based destination recommendations and itinerary generation.
 
 **Metrics:** `R² = 0.91` · `40% ↑ itinerary relevance`
 
@@ -200,26 +200,37 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastik2475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/swastik2475)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6)](https://github.com/swastik2475)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=swastik2475&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888888)](https://github.com/swastik2475)
+<img src="https://github-readme-stats.vercel.app/api?username=swastik2475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=swastik2475&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888888" width="55%" />
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff)](https://github.com/swastik2475)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff" width="100%" />
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/swastik2475/swastik2475/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+</div>
 
 ---
 
