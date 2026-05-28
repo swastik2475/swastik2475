@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:0c1f3a,70:0d1117,100:0d1117&height=110&text=Swastik%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d1f3c,100:1a0a3a&height=200&section=header&text=Swastik&fontSize=72&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20BIT%20Mesra%20Ranchi%20%7C%20Class%20of%202027&descSize=16&descAlignY=75&descColor=00d9ff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production;Computer+Vision+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering)](https://github.com/swastik2475)
 
@@ -21,8 +21,8 @@ class Swastik:
     role        = "AI Engineer | B.Tech Artificial Intelligence"
     college     = "BIT Mesra, Ranchi  —  Graduating 2027  |  CGPA: 7.5"
     domains     = ["Computer Vision", "RAG Pipelines", "LLM Systems", "Agentic AI"]
-    achievement = "🏆 Top 5 — Smart India Hackathon Inter Clg 2024 (Legal AI)"
-    building    = ["magra-rag (construction Q&A)", "Nayaya Sathi"]
+    achievement = "🏆 Top 5 — Smart India Hackathon 2024 (Legal AI)"
+    building    = ["magra-rag (construction Q&A)", "LLM Interpretability Toolkit"]
     reach_me    = "swastiksharma24705@gmail.com"
 ```
 
@@ -198,17 +198,16 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 
 ---
 
-## GitHub Stats
+## Profile Summary
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swastik2475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik2475&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" height="170" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swastik2475&theme=tokyonight)](https://github.com/swastik2475)
 
-<br/><br/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swastik2475&theme=tokyonight)](https://github.com/swastik2475)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swastik2475&theme=tokyonight)](https://github.com/swastik2475)
 
-<img src="https://streak-stats.demolab.com?user=swastik2475&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888888" width="55%" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swastik2475&theme=tokyonight&utcOffset=5.5)](https://github.com/swastik2475)
 
 </div>
 
@@ -217,7 +216,7 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik2475&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=7c3aed&point=00d9ff&area=true&area_color=7c3aed&radius=8&custom_title=swastik2475's%20Contribution%20Graph" width="100%" />
 </div>
 
 ---
@@ -235,5 +234,5 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ---
 
 <div align="center">
-<sub><i>"Build things that actually work, not things that just look good on slides."</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3a,100:0a1628&height=80&section=footer" width="100%"/>
 </div>
