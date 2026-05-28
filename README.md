@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/swastik2475/swastik2475/main/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=220&section=header&text=Swastik%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%7C%20LLM%20Systems&descSize=15&descAlignY=68&descColor=00d9ff&stroke=00d9ff&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production;Computer+Vision+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering)](https://github.com/swastik2475)
 
@@ -234,5 +234,5 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/swastik2475/swastik2475/main/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=220&section=header&text=Swastik%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%7C%20LLM%20Systems&descSize=15&descAlignY=68&descColor=00d9ff&stroke=00d9ff&strokeWidth=1" width="100%"/>
 </div>
