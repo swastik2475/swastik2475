@@ -183,6 +183,18 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 </td>
 <td width="50%" valign="top">
 
+### 📨 AutoApply — Job Application Automation
+End-to-end job application automation system with single-webhook, action-based routing. Resume parsing on upload, AI-personalized outreach emails, email open tracking, Google Sheets logging, and automated 7-day follow-ups.
+
+**Stack:** `n8n` `Vanilla JS` `HTML/CSS` `Webhooks`
+
+[→ View Repo](https://github.com/swastik2475/AutoApply/tree/main)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💡 Currently Exploring
 ```
 ▸ Agentic AI with LangGraph
@@ -191,6 +203,9 @@ Pixel-level disease localization on crop leaf images. Helps farmers detect infec
 ▸ LLMOps & production deployment
 ▸ Campus placements — Aug 2026
 ```
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
