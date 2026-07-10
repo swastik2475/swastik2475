@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="990px" height="614px" font-size="15px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 105%; size-adjust: 105%; }
+.key {fill: #953800;} .value {fill: #0550ae;} .cc {fill: #8c959f;} .sec {fill: #1b1f24; font-weight: bold;}
+text, tspan {white-space: pre;} .ascii {font-size: 13px;}
+</style>
+<rect width="990px" height="614px" fill="#ffffff" rx="15"/>
+<text x="15" y="34" fill="#24292f" class="ascii">
+<tspan x="15" y="34">               *%%%B8&amp;$$$$M$8%:             </tspan>
+<tspan x="15" y="51">             :%@@@B88&amp;$$$$MMMM$B#+          </tspan>
+<tspan x="15" y="68">            +BBB@BB8&amp;$$$&amp;8BB&amp;$M$$$&amp;#        </tspan>
+<tspan x="15" y="85">            @8&amp;8B88&amp;&amp;$&amp;B%%%%%&amp;MMM$$M#       </tspan>
+<tspan x="15" y="102">            B$8@&amp;&amp;$$&amp;&amp;88888B@@&amp;MMMMM8       </tspan>
+<tspan x="15" y="119">            B&amp;%#@8&amp;&amp;B#@B8&amp;8BB@8&amp;MMM$+       </tspan>
+<tspan x="15" y="136">            #@@+*@@%#.#@@@@%%%@8MM&amp;*        </tspan>
+<tspan x="15" y="153">            +%+...::++*%##***#*88@@         </tspan>
+<tspan x="15" y="170">             *+::++:#8&amp;&amp;@%%###%88B*         </tspan>
+<tspan x="15" y="187">             :*#+*%@%%%@@B8@%@88%*          </tspan>
+<tspan x="15" y="204">              .#*+@%*#%@@@B@@B8:            </tspan>
+<tspan x="15" y="221">               .#*+:+*%%%#%@@@%             </tspan>
+<tspan x="15" y="238">                .#@@%@B888&amp;&amp;@%:             </tspan>
+<tspan x="15" y="255">               .#**B$MMM$$&amp;B@@+             </tspan>
+<tspan x="15" y="272">             .+#@8*+%@B88B@BBBW8.           </tspan>
+<tspan x="15" y="289">  .:***###@BB8%%%8$@%%@BBBBBB&amp;00M:          </tspan>
+<tspan x="15" y="306">+%B8&amp;&amp;$$&amp;&amp;MW&amp;&amp;@%@@&amp;M888888888$WW0$#:        </tspan>
+<tspan x="15" y="323">88&amp;&amp;&amp;$$$&amp;M$M&amp;&amp;8@B8&amp;M$&amp;888&amp;88&amp;MWWWMMM$B#:    </tspan>
+<tspan x="15" y="340">&amp;$$MMMMMMW$$M&amp;&amp;&amp;MW0WMMB@@@@@B8$MMM$$WWWW$8* </tspan>
+<tspan x="15" y="357">$M$MMMM$MMM$M$&amp;&amp;$MWWWMB%%%%%@&amp;M&amp;MMWMMWWWWWW8</tspan>
+<tspan x="15" y="374">MMMMMMM$$MWM$M$&amp;$$MMWW$8@@@B&amp;MMMWWWWWWWWWWWW</tspan>
+<tspan x="15" y="391">WMMMMMMM$$WM$$$$$$MMMMWW$@@&amp;MMWWWWWWMWWWWWWW</tspan>
+<tspan x="15" y="408">WWWWMMMMM$MW$$$$$$MMMMMMWM&amp;MWWWWWWWWMMMWWWWW</tspan>
+<tspan x="15" y="425">MWWWWMMMWM$WM$$MMMMMMMMWWWWWWWWWWWMMMWWMWWWW</tspan>
+<tspan x="15" y="442">MMWWWMMMMWM$WMMMMMMMMMMMWWWWWWWWWWWMMWWWWWWW</tspan>
+<tspan x="15" y="459">WMMW0WMM$WWM$WWMMMMMMMMMWWMWWWWWWWWWMWWWWWW0</tspan>
+<tspan x="15" y="476">WWWWW0WMMMWWM$WWWWWWWWWMWWMMWWWWWWWWMWWWWWW0</tspan>
+<tspan x="15" y="493">WWWWWWWMM$MWWM$WWWWWWWWWWWWWWWWWWWWWMWWWWW0W</tspan>
+</text>
+<text x="480" y="34" fill="#24292f">
+<tspan x="480" y="34" class="sec">swastik@dev</tspan><tspan class="cc"> ------------------------------------------------</tspan>
+<tspan x="480" y="54" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">:... </tspan><tspan class="value">AI Engineer | B.Tech Artificial Intelligence</tspan>
+<tspan x="480" y="74" class="cc">. </tspan><tspan class="key">College</tspan><tspan class="cc">:.... </tspan><tspan class="value">BIT Mesra, Ranchi — Class of 2027</tspan>
+<tspan x="480" y="94" class="cc">. </tspan><tspan class="key">CGPA</tspan><tspan class="cc">:................................ </tspan><tspan class="value">7.5 / 10</tspan>
+<tspan x="480" y="114" class="cc">. </tspan><tspan class="key">Achievement</tspan><tspan class="cc">:... </tspan><tspan class="value">Top 5, Smart India Hackathon 2024</tspan>
+<tspan x="480" y="134" class="cc">. </tspan><tspan class="key">Building</tspan><tspan class="cc">:... </tspan><tspan class="value">magra-rag, LLM Interpretability Toolkit</tspan>
+<tspan x="480" y="174" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">:........ </tspan><tspan class="value">Python, C++, C</tspan>
+<tspan x="480" y="194" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Vision</tspan><tspan class="cc">:... </tspan><tspan class="value">PyTorch, OpenCV, YOLOv11n, Detectron2</tspan>
+<tspan x="480" y="214" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">LLM/RAG</tspan><tspan class="cc">:... </tspan><tspan class="value">LangChain, LangGraph, FAISS, HuggingFace</tspan>
+<tspan x="480" y="234" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Backend</tspan><tspan class="cc">:... </tspan><tspan class="value">FastAPI, Streamlit, MySQL, JWT</tspan>
+<tspan x="480" y="274" class="sec">- Contact</tspan><tspan class="cc"> ---------------------------------------</tspan>
+<tspan x="480" y="294" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">:........... </tspan><tspan class="value">swastiksharma24705@gmail.com</tspan>
+<tspan x="480" y="314" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:........................... </tspan><tspan class="value">swastik2475</tspan>
+<tspan x="480" y="334" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:............ </tspan><tspan class="value">swastik-sharma-83803928b</tspan>
+<tspan x="480" y="374" class="sec">- Featured Projects</tspan><tspan class="cc"> ---------------------------------------</tspan>
+<tspan x="480" y="394" class="cc">. </tspan><tspan class="key">Nyaya Sathi</tspan><tspan class="cc">:.... </tspan><tspan class="value">Legal AI RAG — Top 5 SIH 2024</tspan>
+<tspan x="480" y="414" class="cc">. </tspan><tspan class="key">RodentAI</tspan><tspan class="cc">:... </tspan><tspan class="value">77.4% mAP@50 · YOLOv11n detection</tspan>
+<tspan x="480" y="434" class="cc">. </tspan><tspan class="key">Magra-RAG</tspan><tspan class="cc">:... </tspan><tspan class="value">Production RAG for construction Q&amp;A</tspan>
+<tspan x="480" y="454" class="cc">. </tspan><tspan class="key">LLM Interp. Toolkit</tspan><tspan class="cc">:... </tspan><tspan class="value">Attention head visualization</tspan>
+</text>
+</svg>
