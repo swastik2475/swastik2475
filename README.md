@@ -1,8 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=160&section=header&text=Swastik%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=62&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production;Computer+Vision+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering)](https://github.com/swastik2475)
+```
+..................:---:..............:......................   swastik@bitmesra
+               .-=+**+:              ..                        -----------------
+             :=+**++=.    ....                                 OS ...................... BIT Mesra Linux (Ranchi)
+           :=++++++=    .-====-:.               .=.            Uptime .................. 4 years, 10 months
+         .-+++++++*=   .:=++***+==:.            .+-:.          Host .................... B.Tech Artificial Intelligence
+        :---=+++++*=..:-==+*******+=-:::..      :+-=+.         Kernel .................. Batch 2023 - 2027
+       :-::---==++*+.:--=+++********+==-::...   =+-=++.        IDE ..................... VS Code 1.9x
+      :--::::----=+=::-=++++***%%****++==-:.:. :++-=++=:       
+     :--::::::::----:-==-::---=+*******++=-:::.=++-=++++.      Languages.Programming ... Python, C++, C
+    :++========---==:.----=--:.:-=+++=-::...::-===--====-      Languages.AI/ML ......... PyTorch, LangChain, RAG
+    =++++*+++****+=+=:::====--::-=++=:..::...-%#%%#%%%##%:     Languages.Real .......... English, Hindi
+   .======---===--++==--====---=-:-:.:--::::-:=%#########:     
+   .========------=+*++=+++++=++--+-.-==----%*:*#########.     Achievement ............. Top 5, Smart India Hackathon 2024
+   .=======-----==-+++++++*****=-**-.-==--==#*%##########.     Building ................ Gitrix, AutoApply
+   .===--===-------===+**+++++=+***=:-=====+*%###########.     
+   .-----===---------:-=+++=+++++*+=---===--%############.     Contact.Email ........... swastiksharma24705@gmail.com
+   .------==---------::-=--+++=---::::===--*#############.     Contact.LinkedIn ........ swastik-sharma-83803928b
+    :-----==---------::-===--=----..::::-:-++**%#########:     Contact.GitHub .......... swastik2475
+    .:::---::::::::::::--++++***++=-..:::.   ...:=%#####%.     
+     ::----:::::::::  :--=++++++++=-:--:.      . ..+####:      
+      :---::::::::.   ---:=+++==-----:.          ...-%#=       
+       :----:::::.   .==-:.=+***++==:.            ...:-        
+        ::.......  ..:=+=-:.:-===-:. .             .           
+         .....:.  .:.-+++==-:.  .                    :..       
+          .::-:..::..-=+++++=-::...  ..              ...       
+             .:::.:: -++++++++==-::... .....                   
+               ...:..=++++++++++=-:.....:::::.                 
+                   ..-=+++++++==-:.....:::..                   
+                      .::--==-:-::.....                        ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-83803928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/swastik2475)
