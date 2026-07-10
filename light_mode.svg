@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="990px" height="614px" font-size="15px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 105%; size-adjust: 105%; }
+.key {fill: #953800;} .value {fill: #0550ae;} .cc {fill: #8c959f;} .sec {fill: #1b1f24; font-weight: bold;}
+text, tspan {white-space: pre;} .ascii {font-size: 13px;}
+</style>
+<rect width="990px" height="614px" fill="#ffffff" rx="15"/>
+<text x="15" y="34" fill="#24292f" class="ascii">
+<tspan x="15" y="34">             8B%BBB%%888*abmkh#ok           </tspan>
+<tspan x="15" y="51">            WB@$$$$$@@@BB8MobkW8&amp;&amp;Wokh      </tspan>
+<tspan x="15" y="68">          WW%$$$@%%BB$$@$$@%B%%%%BBB88&amp;M    </tspan>
+<tspan x="15" y="85">         W8BBB&amp;bf\(|tz#8B$$$$@&amp;oM&amp;W8B@@@%   </tspan>
+<tspan x="15" y="102">         #&amp;8&amp;#p}l;,'`,+{/bW8%%%B%%@BBBBB%W  </tspan>
+<tspan x="15" y="119">         a#ocr(+!:,'.  .^i{fvmpb*M&amp;%BBBB%8  </tspan>
+<tspan x="15" y="136">         bwx\([+!:,^`    .^I~[\xcbao#&amp;B8&amp;   </tspan>
+<tspan x="15" y="153">         bvj(?&lt;i!;'      `'^:!&lt;?)rmpmp8&amp;    </tspan>
+<tspan x="15" y="170">         Bz/[+{rrjr/(-^'..'`'^,I~]|rxvo&amp;    </tspan>
+<tspan x="15" y="187">       )~&gt;mp11/1{}1fphf/}!ll-|nzbkhop/w     </tspan>
+<tspan x="15" y="204">       +,^]zcz[-]~)jtrxt~&gt;~[vwbmvzmpbx      </tspan>
+<tspan x="15" y="221">       ``!+?{t&lt;__~1f|(-/w|uamj1fnjcrtwhz    </tspan>
+<tspan x="15" y="238">        I ^~;-&lt;:,:;I!;-v] ?#r[-1\1t( 1vz    </tspan>
+<tspan x="15" y="255">         !:i:`I!,`'^,&gt;1&lt; ']kj__?}1]- t      </tspan>
+<tspan x="15" y="272">          l/-l,,l~-+-i'  ^-\r(]__]?+)       </tspan>
+<tspan x="15" y="289">           w/1][]&lt;I^:+}_&lt;[t(f1-[{)()        </tspan>
+<tspan x="15" y="306">           vr(]|(({]?|xxvaopv/|(|j\         </tspan>
+<tspan x="15" y="323">            f){~l&gt;[&lt;!&lt;-][jzwkkbnjz          </tspan>
+<tspan x="15" y="340">            \1([!,:I,` '`I[xvf\xk           </tspan>
+<tspan x="15" y="357">            ))|j{!I!+?{(1txt(rwo            </tspan>
+<tspan x="15" y="374">           |]{/vk);'`'l~-]]/ko              </tspan>
+<tspan x="15" y="391">         (zf&lt;~}|vamr}+&lt;&lt;}fzW#W              </tspan>
+<tspan x="15" y="408">        tv*)&lt;ii+_}rh&amp;&amp;M#M88M8%#             </tspan>
+<tspan x="15" y="425">     rrxza*[+&gt;!&gt;&gt;&gt;+)rzbkho#8M**#            </tspan>
+<tspan x="15" y="442">  curfzpvkW?&lt;&gt;!!!iii~-[|rzkbb##h#pvcvn      </tspan>
+<tspan x="15" y="459">    rzpmmha~iiI::;;Ill+](vwa*abmvnnuvu      </tspan>
+<tspan x="15" y="476">        khm_~~&lt;il;Il&gt;]1fcbpbkbbzrnz         </tspan>
+<tspan x="15" y="493">              _+__~+/x/vwpwpkw              </tspan>
+</text>
+<text x="480" y="34" fill="#24292f">
+<tspan x="480" y="34" class="sec">swastik@dev</tspan><tspan class="cc"> ------------------------------------------------</tspan>
+<tspan x="480" y="54" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">:... </tspan><tspan class="value">AI Engineer | B.Tech Artificial Intelligence</tspan>
+<tspan x="480" y="74" class="cc">. </tspan><tspan class="key">College</tspan><tspan class="cc">:.... </tspan><tspan class="value">BIT Mesra, Ranchi — Class of 2027</tspan>
+<tspan x="480" y="94" class="cc">. </tspan><tspan class="key">CGPA</tspan><tspan class="cc">:................................ </tspan><tspan class="value">7.5 / 10</tspan>
+<tspan x="480" y="114" class="cc">. </tspan><tspan class="key">Achievement</tspan><tspan class="cc">:... </tspan><tspan class="value">Top 5, Smart India Hackathon 2024</tspan>
+<tspan x="480" y="134" class="cc">. </tspan><tspan class="key">Building</tspan><tspan class="cc">:... </tspan><tspan class="value">magra-rag, LLM Interpretability Toolkit</tspan>
+<tspan x="480" y="174" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">:........ </tspan><tspan class="value">Python, C++, C</tspan>
+<tspan x="480" y="194" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Vision</tspan><tspan class="cc">:... </tspan><tspan class="value">PyTorch, OpenCV, YOLOv11n, Detectron2</tspan>
+<tspan x="480" y="214" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">LLM/RAG</tspan><tspan class="cc">:... </tspan><tspan class="value">LangChain, LangGraph, FAISS, HuggingFace</tspan>
+<tspan x="480" y="234" class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Backend</tspan><tspan class="cc">:... </tspan><tspan class="value">FastAPI, Streamlit, MySQL, JWT</tspan>
+<tspan x="480" y="274" class="sec">- Contact</tspan><tspan class="cc"> ---------------------------------------</tspan>
+<tspan x="480" y="294" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">:........... </tspan><tspan class="value">swastiksharma24705@gmail.com</tspan>
+<tspan x="480" y="314" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:........................... </tspan><tspan class="value">swastik2475</tspan>
+<tspan x="480" y="334" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:............ </tspan><tspan class="value">swastik-sharma-83803928b</tspan>
+<tspan x="480" y="374" class="sec">- Featured Projects</tspan><tspan class="cc"> ---------------------------------------</tspan>
+<tspan x="480" y="394" class="cc">. </tspan><tspan class="key">Nyaya Sathi</tspan><tspan class="cc">:.... </tspan><tspan class="value">Legal AI RAG — Top 5 SIH 2024</tspan>
+<tspan x="480" y="414" class="cc">. </tspan><tspan class="key">RodentAI</tspan><tspan class="cc">:... </tspan><tspan class="value">77.4% mAP@50 · YOLOv11n detection</tspan>
+<tspan x="480" y="434" class="cc">. </tspan><tspan class="key">Magra-RAG</tspan><tspan class="cc">:... </tspan><tspan class="value">Production RAG for construction Q&amp;A</tspan>
+<tspan x="480" y="454" class="cc">. </tspan><tspan class="key">LLM Interp. Toolkit</tspan><tspan class="cc">:... </tspan><tspan class="value">Attention head visualization</tspan>
+</text>
+</svg>
