@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="terminal-card.png" width="100%" alt="terminal card"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=160&section=header&text=Swastik%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=62&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/swastik2475/swastik2475">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik2475/swastik2475/main/dark_mode.svg">
+    <img alt="Swastik Sharma's GitHub Profile README" src="https://raw.githubusercontent.com/swastik2475/swastik2475/main/light_mode.svg">
+  </picture>
+</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=600&lines=Top+5+%40+Smart+India+Hackathon+2024+%F0%9F%8F%86;Building+AI+that+actually+ships+to+production;Computer+Vision+%C2%B7+RAG+Pipelines+%C2%B7+LLM+Engineering)](https://github.com/swastik2475)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-83803928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/swastik2475)
@@ -8,21 +17,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=swastik2475&color=00d9ff&style=flat-square&label=Visitors)](https://github.com/swastik2475)
 
 </div>
-
----
-
-## `$ who am i`
-
-```python
-class Swastik:
-    name        = "Swastik Sharma"
-    role        = "AI Engineer | B.Tech Artificial Intelligence"
-    college     = "BIT Mesra, Ranchi  —  Graduating 2027  |  CGPA: 7.5"
-    domains     = ["Computer Vision", "RAG Pipelines", "LLM Systems", "Agentic AI"]
-    achievement = "🏆 Top 5 — Smart India Hackathon 2024 (Legal AI)"
-    building    = ["magra-rag (construction Q&A)", "LLM Interpretability Toolkit"]
-    reach_me    = "swastiksharma24705@gmail.com"
-```
 
 ---
 
