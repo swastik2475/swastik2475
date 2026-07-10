@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:061428,50:0d1f3c,75:130a30,100:1a0a3a&height=160&section=header&text=Swastik%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/swastik2475/swastik2475">
   <picture>
