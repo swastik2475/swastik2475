@@ -1,54 +1,6 @@
 <div align="center">
 
-```
-""""""""""""""^^^""^"l1cmbbbkbbdpdJ-:^....``````^^^^^^""^^^,I!i~-]+I,"^^^"":I!~_-_~!I;;:::,,,"""""""   swastik@bitmesra
-""""""""""""""^""^,_fCqbbbbbbbpdOr+:"```^,;l!ii!!!l:,^`````^",:,,",,:;;:""^^",:;l!~~~!I;::,,,"""""""   -----------------
-""""""""""""""""I}vOqqqqpdddpqqn~:,"^^,l+])/tfft/|{?~l:"^``.````^,l])(1]_+~!;,"^^^,;i]?I;:,,,"""""""   OS ...................... BIT Mesra Linux (Ranchi)
-""""""""""""""l)XOZZZwqpddddppJ!I:,,,;i?{fcXYJCLLCUu/1[-~l,^``.`^";~--_~ii~i!I:"```""(Or-l;,,"""""""   Uptime .................. 4 years, 10 months
-""""""""""""I)YZOOZwqqpdbbbbdbui!;;I!~-[|zJ0mqpdddqOJvrf\{_!;:""^^^```^^^^^""""""""""+Zmc}_;,""^^^^^   Host .................... B.Tech Artificial Intelligence
-"""""""^"";?rCLQOZwqpdbkkkkhbhul!Il!~-[)rYLmpbkhaoakpOCXvx\}]-+~ii!!!llI;"^```^^"""""lQ0X\utI""^^^^^   Kernel .................. Batch 2023 - 2027
-^^^^^^^":~(nvucYJQZqdbkhaaaoaozI!li_[{(tuXLZpbkhao*oakqZCYcxf\(1{{}}[?_ilI:,""^^^"",,-wOX\UbJ?""^^^^   IDE ..................... VS Code 1.9x
-^^^^^^,l?)tjrxxnucYLmbho***#*#Oi~+])/ttrnzJ0wpdbkho**oakpZQJXcvnxrft/|{?_~ilI:,"^^"::JhmY\Xpbpt:"^`^   
-^^^^^,i{||(((|/tfjrnXLmkoMWWM&m+?}(/ttfrncULOmwqdka***oakpwZ0LCJUYzcunj|{[?-+~l:"",:+khwU/Xddbbci,^`   Languages.Programming ... Python, C++, C
-^^^^:~(tt\({}[[}{)(\fncJOdoMW8m~]{|/tjnvXYJQOwqdkao*#MM*hbpqqwmZOOQLCJzx/){}[[]+I:I:v*bmU/zpppZJ(!,^   Languages.AI/ML ......... PyTorch, LangChain, RAG
-^^^,~|jjt\(1}]-+++_]1\fxuXLmb#Z~]1|fuYJCLQOZmqdkao#MW&WM*hkddbbbdpqqwm0Uuf())))}~I:}hkpOY\vwwwOcxx~,   Languages.Real .......... English, Hindi
-^^,i(jrjt\(1}]-+~!l!+]1\fxucU0X?[1\uULQO0CXcYLZqbaM88&&WM*ahhaaaahhkbbqOCXnt/\\1+l,YhpwQX|nmmmO0CCv~   
-^"!)rxxrf/|){}]?_+i!i+-[)\frxur+-{/vUCLx+l!i~i+-}(fXwao**oooo***oo**ohdwOCYvxft(-l/kpqmLz\uwwwmZZ0OY   Achievement ............. Top 5, Smart India Hackathon 2024
-":_\tft/|){[]-_~i!lll!!i~-[fYYX[!?|uXUYjfrrjt}+l,. .!fffXqbkhhhkbbpmOQUvnxf||jrt[[wpmOQUu{(XXXcvunrx   Building ................ Gitrix, AutoApply
-,+wdpppqwZOQLCJUXcnxxxxrjrr/XqpL!^l|unrnYCCOmm0zt]~i+]}})uCOmmOYr\-l;,^..`^^"i\n\fccvnnxf({{{}}[[[[[   
-:fabkhaaaooooaaaaaoaoo*##*aXXZbdJl`;|+_cQOZqbdqLvt)[??)xuzJCJUz\]~iii+-?-~!lII?rL#aoahhaaoahaaaooooo   Contact.Email ........... swastiksharma24705@gmail.com
-_cXcvvcvcXJJzr/\txzYUUUUXvcwho*d0x??I;c0LUzYL/~ll?]]}{])QpbqOYf[?]}{(tjt/|)}?-?n8$$BB%%%%%%%%%%BBB%%   Contact.LinkedIn ........ swastik-sharma-83803928b
-\CJXvuvvunnxj/||\tjrxxxrfffXkhbCnrrx{?zXJJUC0U\?]()(/fx+~?+~+_!!_]1\1\}]{{1)(/)!~jo$B%%%%%BBBBBBBB%%   Contact.GitHub .......... swastik2475
-fJYcuvcYXcuxrjjf/|())))(((|\0kpqpCzUc{JYUJCLCCUvrfjnuuu) }rt~."~}|z0)]-{t}-{(cqzI,it&M***#M&8%%88&&&   
-/XvvuuvYJCJzuxxrf\()1{111)))nbh**wJLmjvpZZZZZOQLJUUUJv(It&W*Ql;?/zL0Lzuunf//v%$$)(Qw&#oaao*M&8%8&&&&   
-\cuunxxnvzvnft//\\\|(((|||()(Ywpq0LOqdrYhakbbdpqwwmwZf]\hoaqv!I[fvYYXvrjrxunL@@o\M$$8&M##MM&8%%8&&&8   
-\zvunxrjrnvccnrjfffftttfff/()/X0OLLZdaoCXmaWWMoaao*kz(XaoMawn?l\XUL0QJXcccXXOBMYh@8%%8&WW&&88%%8&WWW   
-\XcvunrjrnXJJUzvxjjjft\||||((/rXLJzJwkoWh0JLOwqqmQv/vqo#&&omv)??Xwdbddw0JYYUdo0o$%B%8&M#MMW&8%%8&&WW   
-\XcvunxrruU0ZZ0Unftt/\|(((((|txxf({fXQwdhab0u/\|\\vbM#M8%8hmUr\)1nQdaoapZQ00JL%@%BB%8Moaao#W&8%88&&&   
-\zvuunxrrxcUQ0QUvj/////tft/\\fxr\}_]\xvYJLLJUULZqpppdhoMW*bwQUXvuvcXUCJYYcurfo@%BB%%8M**MMW&8%%%%%%%   
-\nunnnxjfffuCmwOCYcczzcunrf/\trr/{--{/rnxt/jcLqhahZufjcC0QYrtfj/jOdbpwQYvxxrwB%BBB%%&#**MW&888888%%%   
-1jxxrrjttfrnvXXujt//tt/\||||\trr\}__[|rx)_?/zQZwwmOYf\|){?!;Ii_]|XZwqmLXunnpB%%%%8888WMW&888888&WWWM   
-~|fffft//fncYUXcnf/\\\/ttt/\|/jj|}--}|xnj|(}?}\jxuut){}}}!,^";i?1\frnvnt\\w$%BBB@@@B8M**MW&8888&&WWW   
-;]\/t/\||\fv0qwCuf//\\\\//\|(|\/|{}})\rvXJ0ZC/?(//||1{)jn?llIli_-_~~]tj\1[(1)|truXLwh#MM#W&&&8888888   
-,!1|\|||/ff/|(){}[[[[}}{{1))((|\\(?[\tjnzLwba*haWMhoLOOxjn1-~!;:;!-{\f/1_I,,:Ii~+~~-}/Yb&%&&&888%%%%   
-^:-1(\frrjt|){}[[[][[}}{{1))((|\}!"+jjrxuX0pkkbdkoM&%$@&%%hdcf?-}\ncu/}~;::;I!i~+++____}xp88W8%%88&&   
-`"l])/vCLJYcnf(}]]]][}{11)(((|}i"^`}uxxjjnXQwppwZOZwqqZ0qmUcf/\fucuj|[i:,,,:;ll!!i~++-?]]}nk8&88&MWh   
-`^,i{tvCQLUct1[?????][}}{1)){+:^^^.\Yuxt||jzLwqm0JXcvnnnxf(]?[|rnj|{-l:"""",:;IIl!i~~_-]}{}(L&8&W8o)   
-``^:~(rvccvx\}[]????]][}}{{]l"^```^vUcr\{][jUwbkbqOUu/{{}]?]1/rj(}?i:""",,,,:;;;;Il!i~+-][{)1u*&8*[,   
-^^`^:~)tuzXXzcvxt\||\///|)]I"^``. iLJXx\{_!+rZh*MMM#obm0CUYYXzr}-~I,"",,,,,::;;::;IIl!i~_?]{()tbh]^,   
-^^^^^:i{rczYUJUYznftfjf/(];"^`. ,-uO0LXj|[l,ltCZbo#M#*akqZQCz|_!i!:,,,,,,,:;;II;;;;;II!i~_?[{{[{?::"   
-^^^^^^,![\\1}[[[[]??????+;"^`."]/\UmwwOUnt)+""!]|cOqqqwmLvr/?!!~~l:,,,,,::::;II;;;;;;II!i~_+~l:"^^",   
-^^^^^^^";_[?-+++++++__-+I"^` Ijx?{0wbhkw0Uzn\?I::;!-[(||{_!;:li~l;;;:,,,:::::;;;;;;;;;II!i!I,"~+++;^   
-^^^^^^^^",l+-]??]][}1)[l,^  ~nr];f0mk**okqZQJzx(?!,^`^,:;;;Il!l;:;i~l,""",,,::::::::::;;IlI:^}}i;_(l   
-""""""""^^";l{UCJuLUYY{^`^l|zf[~!vLZdaooakdqOCcj)[?-_++++++~!;,,l+]]!,^^^"""""""",,,,,,;lil;"-[[{?}:   
-"""""""""^^^":+{/ncn(]-[)fvct{}?lnQOqbkhkbbdqZLUcxf\|()1}?+!I;!-[}[?i:^`...`^^^^^^^^",;!i!l;:"Iii!"^   
-"""""""""""^^^":i}/rxnvXYv|(\/\?:rOZqpbbbdppqwmZ0CUXcuxf\{?++?}{[-+_-_ii+i;"`   .``";!i!I:::::,""",,   
-"""""""""""""^^^",!]\uXzn(1/rx|l"vmwqpdbdpqwmmmwmmZmZOLUcnf|1{}]-+-{|\\txunj|[+I::l!i!l;:::,,,,,,,,"   
-""""""""""""""""^^^":~{\||fjf/{~lXZmqpdbbbdqwqppppdpqmO0LXj|{-i~_]{\frnuvczzXXcf{_~!lI;;;::,,,""""""   
-,,,,,,,,""""""""""^^^^":i?}{{11]]zCQ0OmwpppppddpqqwmOQJXr(]--+~~_]{\jcLQCYcnf)?~!llIII;;::::,,,"""""   
-,,,,,,,,""""""""""^^^^^^^^,;l+-_}YL00QLLLLLLLQQ000LUXvj\1?++_--?[{)tuYJYf)]~l;;;IIlIII;;::::,,,"""""   
-,,,,,,,,""""""""""^^^^^^^^```^":I+1fvXYXzcuxxuXJCCcxrjt|{]??---?[1(|(}+l:,,,::;;IIlIII;;::::,,,"""""
-```
+<img src="terminal-card.png" width="100%" alt="terminal card"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-83803928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/swastik2475)
